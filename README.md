@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLzPA8opLDIQp3/giphy.gif" width="30px"> I'm Muhammad Farhan Efendi!
 
 <p align="center">
-  <img src="./assets/header.png" width="100%" />
+  <img src="assets/header.png" />
 </p>
 
 ### 💫 About Me
@@ -31,9 +31,9 @@ I'm a passionate developer focused on building beautiful and functional mobile a
 
 ---
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/0aIY8ZCncOtgh35ftC/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="https://i.giphy.com/0aIY8ZCncOtgh35ftC.gif" height="200" />
+</p>
 
 ### 📊 GitHub Stats
 <p align="center">
