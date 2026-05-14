@@ -1,16 +1,21 @@
-# <img src="https://media.giphy.com/media/hvRJCLzPA8opLDIQp3/giphy.gif" width="30px"> I'm Muhammad Farhan Efendi!
-
 <p align="center">
-  <img src="assets/header.png" />
+  <img src="https://i.giphy.com/0aIY8ZCncOtgh35ftC.gif" width="600" />
 </p>
 
-### 💫 About Me
-I'm a passionate developer focused on building beautiful and functional mobile and web applications. I love exploring new technologies and pushing the boundaries of what's possible with code.
+<h1 align="center">Muhammad Farhan Efendi</h1>
+<p align="center">
+  <b>Mobile & Web Developer</b><br>
+  Building elegant digital experiences with code.
+</p>
 
-- 🔭 I’m currently working on exciting Flutter and React projects.
-- 🌱 I’m currently learning advanced animations and cloud architecture.
-- 💬 Ask me about **Flutter, React, or Supabase**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-farhan-efendi-881151299/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FarhanEfendi21&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+---
+
+### 💫 About Me
+I specialize in creating seamless, user-centric applications using **Flutter** and **React**. Passionate about clean architecture, smooth animations, and solving complex problems with simple solutions.
 
 ---
 
@@ -29,11 +34,6 @@ I'm a passionate developer focused on building beautiful and functional mobile a
 
 ---
 
----
-
-<p align="center">
-  <img src="https://i.giphy.com/0aIY8ZCncOtgh35ftC.gif" height="200" />
-</p>
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -70,8 +70,4 @@ I'm a passionate developer focused on building beautiful and functional mobile a
   <a href="https://www.instagram.com/efndfrhn?igsh=eXhiYjZjcjV3bDF3" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FarhanEfendi21&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
