@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/0aIY8ZCncOtgh35ftC.gif" width="600" />
+  <img src="assets/profile-animation.gif" width="600" />
 </p>
 
 <h1 align="center">Muhammad Farhan Efendi</h1>
