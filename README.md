@@ -32,7 +32,7 @@ I'm a passionate developer focused on building beautiful and functional mobile a
 ---
 
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtiaWd1NnB6bjd1bHQ5cnR5Mmt4N3hmazh2c3B3djZnMGc4M212dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0aIY8ZCncOtgh35ftC/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/0aIY8ZCncOtgh35ftC/giphy.gif"  />
 </div>
 
 ### 📊 GitHub Stats
