@@ -29,6 +29,12 @@ I'm a passionate developer focused on building beautiful and functional mobile a
 
 ---
 
+---
+
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtiaWd1NnB6bjd1bHQ5cnR5Mmt4N3hmazh2c3B3djZnMGc4M212dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0aIY8ZCncOtgh35ftC/giphy.gif"  />
+</div>
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FarhanEfendi21&show_icons=true&theme=tokyonight&border_radius=10" height="170px" />
